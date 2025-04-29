@@ -11,3 +11,9 @@ __pycache__/
 # Ignore Environment Files
 *.env
 *venv
+
+# extras
+command_line.txt
+
+results/**/*.npz
+#results/
